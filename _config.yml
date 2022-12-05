@@ -1,0 +1,7 @@
+#jekyll configuration
+name: Maja Czekała
+description:
+url:"https://Maja03.github.io"
+markdown: kramdown
+highlighter: rouge
+remote_theme: benbalter/retlab
