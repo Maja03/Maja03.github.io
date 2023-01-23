@@ -10,12 +10,14 @@ New helmets, data-gathering sensors, and a turf testing machine called the BEAST
 ## <b>HELMET TESTING</b>
 Each season, NFL players select a new helmet from the helmet safety list. Better performance helmets have contributed to a sustained reduction of concussions by 25% in each of the last four seasons. Last season, the number of concussions was at an all-time low. The League's work on innovative helmets doesn't stop there. In the pursuit of safer protective equipment for players, the NFL hosts innovative challenges, including the NFL Helmet Challenge. The NFL is also helping to drive the development of position-adjusted helmets and advances in customized helmets using technology such as 3D printing to continue to advance helmet safety and innovation.  
 
-<img src="https://user-images.githubusercontent.com/112630417/214016540-4ca0a2e7-4106-4b32-aad2-a73100af92c1.PNG">
+<img src="https://user-images.githubusercontent.com/112630417/214016540-4ca0a2e7-4106-4b32-aad2-a73100af92c1.PNG">  
+
 #### CRASH CLOUD TECHNOLOGY 
 Springs put together a team of engineers to design Windpact's Crash Cloud technology, a liner system that has the arrow protected from being shot at different speeds and angles.The patented Windpact Crash Cloud both absorbs energy as it compresses, and dissipates energy through impact vents, before rapidly re-inflating like a spring. The most important thing about Crash Cloud is the foam. Crash Cloud can intelligently adapt to the level of the strike and solve a wide range of strikes, from linear strikes to rotational strikes. The unique combination of controlled airflow and lightweight open-cell foams reduces weight and size. Creates an energy absorption system that provides excellent impact protection without restriction. it is modular and can take any shape, size or texture depending on the application.
 <img src="https://user-images.githubusercontent.com/112630417/214017472-2171a871-bddb-4b3a-b109-1471d39e1b45.PNG">
 <img src="https://user-images.githubusercontent.com/112630417/214017502-1b7d5574-1bac-4b4d-92e1-3b93cc6c3ae7.PNG">
-<a href="https://www.youtube.com/watch?v=_gNSpk_Uc6o" target="_blank"><img src="https://www.youtube.com/watch?v=_gNSpk_Uc6o" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=_gNSpk_Uc6o" target="_blank"><img src="https://www.youtube.com/watch?v=_gNSpk_Uc6o" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>  
+
 ## <b>HEADHEALTH TECH CHALLANGES & THE NFL HELMET CHALLENGE</b>
 #### HEADHEALTH TECH CHALLENGES
 Made by the National Football League (NFL) and Football Research, Inc. (FRI) have partnered with Duke University's Clinical and Translational Science Institute (Duke CTSI). The aim is to deepen and improve the quality in e.g. in the assessment of head protection, material science and kinematic measurements. That's why the HeadHealthTECH Challenge series is part of the Engineering Roadmap, and the goal is to better understand the biomechanics of the head during injuries in American football. It is also an incentive for small enterprises, universities to try to create better, more modern protective equipment. NFL and FRI will give $ 1,6mln grant to help with development 13 new technology. 
