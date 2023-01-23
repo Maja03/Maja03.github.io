@@ -1,12 +1,3 @@
-#jekyll configuration
-name: Maja Czekała
-description:
-url:"https://Maja03.github.io"
-markdown: kramdown
-highlighter: rouge
-remote_theme: benbalter/retlab
-plugins:
-- jekyll-remote-thema
-
-title: [Digital Technology in American Football]
+thema: jekyll-theme-cayman
+title: Digital Technology in American Football
 description: [An article about how digital technology allows you to reduce injuries in American football players]
