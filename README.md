@@ -15,3 +15,11 @@ Springs put together a team of engineers to design Windpact's Crash Cloud techno
 <img src="https://user-images.githubusercontent.com/112630417/214017472-2171a871-bddb-4b3a-b109-1471d39e1b45.PNG" width="50%" height="80%"></img>
 <img src="https://user-images.githubusercontent.com/112630417/214017502-1b7d5574-1bac-4b4d-92e1-3b93cc6c3ae7.PNG" width="50%" height="50%"></img>
 "https://www.youtube.com/watch?v=_gNSpk_Uc6o"
+## <b>HEADHEAL THTECH CHALLANGES & THE NFL HELMET CHALLENGE</b>
+#### HEADHEALTHTECH CHALLENGES
+Made by the National Football League (NFL) and Football Research, Inc. (FRI) have partnered with Duke University's Clinical and Translational Science Institute (Duke CTSI). The aim is to deepen and improve the quality in e.g. in the assessment of head protection, material science and kinematic measurements. That's why the HeadHealthTECH Challenge series is part of the Engineering Roadmap, and the goal is to better understand the biomechanics of the head during injuries in American football. It is also an incentive for small enterprises, universities to try to create better, more modern protective equipment. NFL and FRI will give $ 1,6mln grant to help with development 13 new technology. 
+#### NFL HELMET CHALLENGES
+NFL Helmet Challenges has the task, based on specific laboratory tests, to create a new helmet for NFL players that will be better than those currently in use. NFL and Football Research, Inc. (FRI) awarded a $1.37 million HeadHealthTECH grant to four teams of innovators to support the creation of their helmet prototypes to be entered into the ongoing NFL Helmet Challenge. The challenge is to create a helmet based on laboratory tests that will be better than the one used so far. 
+The judging panel combines expertise in engineering, biomechanics, neuroscience, sports business, and includes two NFL legends and an NFL equipment manager.
+
+In addition to the visual assessment, the cash register will also undergo laboratory tests to check whether it meets the Helmet Performance Score (HPS) requirements. Lab testing conditions are designed to represent potentially concussive head strikes in the NFL, and this is the same process used annually to rank helmets by performance to inform players and club medical, training, coaching and equipment personnel about the best helmets on the market today.
