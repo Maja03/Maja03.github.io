@@ -16,3 +16,4 @@ Springs put together a team of engineers to design Windpact's Crash Cloud techno
 The patented Windpact Crash Cloud both absorbs energy as it compresses, and dissipates energy through impact vents, before rapidly re-inflating like a spring.
 The most important thing about Crash Cloud is the foam. Crash Cloud can intelligently adapt to the level of the strike and solve a wide range of strikes, from linear strikes to rotational strikes. The unique combination of controlled airflow and lightweight open-cell foams reduces weight and size.
 Creates an energy absorption system that provides excellent impact protection without restriction. it is modular and can take any shape, size or texture depending on the application.
+<img src="https://user-images.githubusercontent.com/112630417/214017472-2171a871-bddb-4b3a-b109-1471d39e1b45.PNG" width="50%" height="50%"></img>
