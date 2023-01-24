@@ -31,8 +31,12 @@ In addition to the visual assessment, the cash register will also undergo labora
 ## <b>THE BEAST </b>
 In a Charlottesville, VA biomechanics lab, there is a unique shoe-testing machine called the "Biocore Elite Athlete Shoe Turf Tester," or for short: "The Beast." 
 Through analysis, 60% of all injuries in the NFL are lower extremity injuries. During the tests, three aspects of the shoes are checked: traction behavior, flexion behavior and how well they fit the foot. Traction is tested with The Beast machine. Tests how much force and torque is needed to release the shoe from different types of surfaces.  
+
 Traction is tested with The Beast machine. Tests how much force and torque is needed to release the shoe from different types of surfaces. “The FAST” device checks the flexion of the shoe. The results of these tests are shared with NFL players, club equipment managers, and club medical, training, and coaching staff to assist in equipment selection. The NFL is also using new technology to help players choose the right shoe size and shape. HP FitStation technology is now being installed in all 32 NFL locker rooms to scan a player's feet and identify the shoe models and sizes that best fit them.
-### HP FITSTATION
+#### HP FITSTATION
 HP offered a three-module system with a 3D scanner, pressure plate, and use-only software that was quick and easy to run in the next locker room. The system on the pressure plate scans the player's foot and gait measurement. As a result, the system gives the width, length and arc length of each foot and height, and categorizes the gait. Based on this information, the system automatically ranks the best cleats from three manufacturers - Nike, Adidas and Under Armor - that best fit your feet only.  
+
 <img src="https://user-images.githubusercontent.com/112630417/214317967-637762c1-9caf-4e12-9638-c455cd404a6c.PNG">  
 
+## <b>THE DIGITAL ATHLETES</b>
+The NFL is partnering with Amazon Web Services (AWS) to use Artificial Intelligent (AI) and machine learning to build a Digital Athlete. It is a virtual representation of an NFL player that can predict and prevent injuries. Digital Athlete applies data such as player activity, equipment selection, speed, weather and countless hours of video to better understand injuries. The Digital Athlete algorithm can test different simulations. How a different helmet affects a rider. What if the weather was different. Digital Athlete will help the NFL conduct injury risk analysis and evaluate additional player safety initiatives, including equipment, rule changes and coaching techniques.
