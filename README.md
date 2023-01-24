@@ -48,5 +48,6 @@ The NFL is partnering with Amazon Web Services (AWS) to use Artificial Intellige
 ## <b>DATA COLLECING</b>
 The NFL uses Radio Frequency Identification (RFID) tags, including those developed by Zebra Technologies. They are located on the players' equipment, in particular under the mask under the chin in the belt. Data is collected at each training session and match separately for each player. Mouth guard sensors also collect movement, head speed after being hit while playing. The data is so accurate that NFL engineers can analyze it piece by piece to gain insights into the types of impacts players are most at risk of, then work directly with helmet manufacturers to share that experience so they can design gear that is position specific, to better protect against these effects. Injury data from 2015 to pre-season 2022 on rates of reported concussions and ACL and MCL injuries.  
 
-https://user-images.githubusercontent.com/112630417/214322953-60c55b4a-8254-48bd-b334-40ef72dbf63a.PNG
-
+<img src="https://user-images.githubusercontent.com/112630417/214322953-60c55b4a-8254-48bd-b334-40ef72dbf63a.PNG">
+<img src="https://user-images.githubusercontent.com/112630417/214322968-c39a16b0-67b6-48c7-83e7-cba8bfcda04a.PNG">
+<img src="https://user-images.githubusercontent.com/112630417/214322985-694ac1ef-8e5c-4ef8-a8d3-76ed9c3f0b42.PNG">
