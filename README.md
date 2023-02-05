@@ -16,7 +16,7 @@ Each season, NFL players select a new helmet from the helmet safety list. Better
 
 ![](https://user-images.githubusercontent.com/112630417/216815796-bb748c64-58a6-4a02-98eb-b2db5ff04cd7.PNG)  
 
-#### CRASH CLOUD TECHNOLOGY 
+### CRASH CLOUD TECHNOLOGY 
 
 Windpact Crash Cloud is a proprietary technology developed by Windpatt, a company specializing in impact protection products. The Crash Cloud technology is a combination of materials and designs that aim to provide enhanced impact protection in various products, such as helmets, protective gear, and sports equipment. The technology is designed to reduce the amount of force transmitted to the head, body, or other areas during impact. The specific design and materials used in Windpact's Crash Cloud technology vary depending on the application and product. The most important thing about Crash Cloud is the foam. Crash Cloud can intelligently adapt to the level of the strike and solve a wide range of strikes, from linear strikes to rotational strikes. The unique combination of controlled airflow and lightweight open-cell foams reduces weight and size. Moreover creates an energy absorption system that provides excellent impact protection without restriction. it is modular and can take any shape, size or texture depending on the application.  
 
@@ -28,11 +28,11 @@ One of the patent drawings (left) for the Crash Cloud technology shows three-dim
 
 ## HEADHEALTH TECH CHALLANGES & THE NFL HELMET CHALLENGE
 
-#### HEADHEALTH TECH CHALLENGES
+### HEADHEALTH TECH CHALLENGES
 
 Made by the National Football League (NFL) and Football Research, Inc. (FRI) have partnered with Duke University's Clinical and Translational Science Institute (Duke CTSI). The aim is to deepen and improve the quality e.g. in the assessment of head protection, material science and kinematic measurements. That's why the HeadHealthTECH Challenge series is part of the Engineering Roadmap, and the goal is to better understand the biomechanics of the head during injuries in American football. It is also an incentive for small enterprises, and universities to try to create better, more modern protective equipment. NFL and FRI will give a $ 1,6mln grant to help with the development of 13 new technology.  
 
-#### NFL HELMET CHALLENGES
+### NFL HELMET CHALLENGES
 
 NFL Helmet Challenges have the task based on specific laboratory tests to create a new helmet for NFL players that will be better than those currently in use. NFL and Football Research, Inc. (FRI) awarded a $1.37 million HeadHealthTECH grant to four teams of innovators to support the creation of their helmet prototypes to is entered into the ongoing NFL Helmet Challenge. The challenge is to create a helmet based on laboratory tests that will be an improved version of those currently used.
 The judging panel combines expertise in engineering, biomechanics, neuroscience, and sports business, and includes two NFL legends and an NFL equipment manager.  
@@ -49,7 +49,7 @@ In a Charlottesville, VA biomechanics lab, there is a unique shoe-testing machin
 Through analysis, 60% of all injuries in the NFL are lower extremity injuries. During the tests, three aspects of the shoes are checked: traction behaviour, flexion behaviour and how well they fit the foot. Traction is tested with The Beast machine. Tests how much force and torque are needed to release the shoe from different types of surfaces.
 The Beast machine is testing traction by looking into how much force and torque are needed to release the shoe from different types of surfaces. “The FAST” device checks the flexion of the shoe, and the results of those tests are shared with NFL players, club equipment managers, and club medical, training, and coaching staff to assist in equipment selection. The NFL is also using new technology to help players choose the right shoe size and shape. An example of such technology is  HP FitStation technology is now being installed in all 32 NFL locker rooms to scan players' feet and identify the shoe models and sizes that best fit them.
 
-#### HP FITSTATION
+### HP FITSTATION
 
 HP offered a three-module system with a 3D scanner, pressure plate, and use-only software that was quick and easy to run in the next locker room. The system on the pressure plate scans the player's foot and gait measurement. As a result, the system gives the width, length and arc length of each foot and height, and categorizes the gait. Based on this information, the system automatically ranks the best cleats from three manufacturers - Nike, Adidas and Under Armor - that best fit your feet only.  
 
