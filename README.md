@@ -2,7 +2,7 @@
 
 New helmets, data-gathering sensors, and a turf testing machine called the BEAST are making the game safer for NFL (National Football League) players. NFL and its partners. For example, Amazon Web Service (AWS) is collecting more data. By analyzing the data, conclusions can be drawn about the causes of various injuries, thus preventing them and keeping players safer.
 
-#### PROJECT:
+### PROJECT:
 - Helmet Testing
 - HeadHealth TECH Challenges & the NFL Helmet Challenge
 - The BEAST
