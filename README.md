@@ -38,6 +38,7 @@ NFL Helmet Challenges have the task based on specific laboratory tests to create
 The judging panel combines expertise in engineering, biomechanics, neuroscience, and sports business, and includes two NFL legends and an NFL equipment manager.  
 
 ![](https://user-images.githubusercontent.com/112630417/214034465-b0b696ab-b1fb-4738-ad02-b40189e911d8.png)
+
 shown how tests are carried out when checking equipments.
 
 In addition to the visual assessment, the cash register will also undergo laboratory tests to check whether it meets the Helmet Performance Score (HPS) requirements. Lab testing conditions are designed to represent potentially concussive head strikes in the NFL, and this is the same process used annually to rank helmets by performance to inform players and club medical, training, coaching and equipment personnel about the best helmets on the market today.  
