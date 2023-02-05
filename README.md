@@ -1,7 +1,7 @@
 ## <b>DIGITA HEALTH IN AMERICAN FOOTBLL</b> 
 New helmets, data-gathering sensors, and a turf testing machine called the BEAST are making the game safer for NFL (National Football League) players. NFL and its partners. For example, Amazon Web Service (AWS) is collecting more data. By analyzing the data, conclusions can be drawn about the causes of various injuries, thus preventing them and keeping players safer. 
 #### PROJECT:
-- [Helmet Testing](#HELMET-TESTING)
+- <a href="HELMET TESTING">Helmet Testing</a>
 - [HeadHealth TECH Challenges & the NFL Helmet Challenge](#HEADHEALTH-TECH-CHALLANGES-&-THE-NFL-HELMET-CHALLENGE)
 - [The BEAST](#THE-BEAST)
 - [The Digital Athletes](#THE-DIGITAL-ATHLETES)
