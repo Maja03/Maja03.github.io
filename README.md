@@ -15,8 +15,8 @@ Each season, NFL players select a new helmet from the helmet safety list. Better
 #### CRASH CLOUD TECHNOLOGY 
 Windpact Crash Cloud is a proprietary technology developed by Windpatt, a company specializing in impact protection products. The Crash Cloud technology is a combination of materials and designs that aim to provide enhanced impact protection in various products, such as helmets, protective gear, and sports equipment. The technology is designed to reduce the amount of force transmitted to the head, body, or other areas during impact. The specific design and materials used in Windpact's Crash Cloud technology vary depending on the application and product. The most important thing about Crash Cloud is the foam. Crash Cloud can intelligently adapt to the level of the strike and solve a wide range of strikes, from linear strikes to rotational strikes. The unique combination of controlled airflow and lightweight open-cell foams reduces weight and size. Moreover creates an energy absorption system that provides excellent impact protection without restriction. it is modular and can take any shape, size or texture depending on the application.  
 
-<img src="https://user-images.githubusercontent.com/112630417/214017472-2171a871-bddb-4b3a-b109-1471d39e1b45.PNG">
-<img src="https://user-images.githubusercontent.com/112630417/214017502-1b7d5574-1bac-4b4d-92e1-3b93cc6c3ae7.PNG">  
+<img src="https://user-images.githubusercontent.com/112630417/214017472-2171a871-bddb-4b3a-b109-1471d39e1b45.PNG" weidth="600" height="400">
+<img src="https://user-images.githubusercontent.com/112630417/214017502-1b7d5574-1bac-4b4d-92e1-3b93cc6c3ae7.PNG" weidth="600" height="400">  
 
 ## <b>HEADHEALTH TECH CHALLANGES & THE NFL HELMET CHALLENGE</b>
 #### HEADHEALTH TECH CHALLENGES
