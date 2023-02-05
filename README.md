@@ -84,7 +84,7 @@ The NFL uses Radio Frequency Identification (RFID) tags, including those develop
 
 
 ## SOURCES:
-- ![https://www.nfl.com/playerhealthandsafety/equipment-and-innovation/engineering-technology/nflexplainedinnovation](https://www.nfl.com/playerhealthandsafety/equipment-and-innovation/engineering-technology/nflexplainedinnovation)
+-[https://www.nfl.com/playerhealthandsafety/equipment-and-innovation/engineering-technology/nflexplainedinnovation](https://www.nfl.com/playerhealthandsafety/equipment-and-innovation/engineering-technology/nflexplainedinnovation)
 - https://www.nfl.com/playerhealthandsafety/equipment-and-innovation/engineering-technology/helmet-innovation-more-and-better-choices-fewer-concussions
 - https://windpact.com/engineering-services/crash-cloud-energy-absorption-system/
 - https://www.nfl.com/playerhealthandsafety/equipment-and-innovation/innovation-challenges/nfl-helmet-challenge-raises-the-bar-for-helmet-technology-and-performance-awards
