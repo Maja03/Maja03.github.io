@@ -25,7 +25,8 @@ Made by the National Football League (NFL) and Football Research, Inc. (FRI) hav
 NFL Helmet Challenges have the task based on specific laboratory tests to create a new helmet for NFL players that will be better than those currently in use. NFL and Football Research, Inc. (FRI) awarded a $1.37 million HeadHealthTECH grant to four teams of innovators to support the creation of their helmet prototypes to is entered into the ongoing NFL Helmet Challenge. The challenge is to create a helmet based on laboratory tests that will be an improved version of those currently used.
 The judging panel combines expertise in engineering, biomechanics, neuroscience, and sports business, and includes two NFL legends and an NFL equipment manager.  
 
-<img src="https://user-images.githubusercontent.com/112630417/214034465-b0b696ab-b1fb-4738-ad02-b40189e911d8.png"><div style="text-align:left"><img><br> shown how tests are carried out when checking equipments</div>  
+<img src="https://user-images.githubusercontent.com/112630417/214034465-b0b696ab-b1fb-4738-ad02-b40189e911d8.png
+<p>shown how tests are carried out when checking equipments.</small></small></p>
 
 In addition to the visual assessment, the cash register will also undergo laboratory tests to check whether it meets the Helmet Performance Score (HPS) requirements. Lab testing conditions are designed to represent potentially concussive head strikes in the NFL, and this is the same process used annually to rank helmets by performance to inform players and club medical, training, coaching and equipment personnel about the best helmets on the market today.
 ## <b>THE BEAST</b>
