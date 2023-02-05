@@ -10,7 +10,7 @@ New helmets, data-gathering sensors, and a turf testing machine called the BEAST
 ## <b>HELMET TESTING</b>
 Each season, NFL players select a new helmet from the helmet safety list. Better-performance helmets have contributed to a sustained reduction of concussions by 25% in each of the last four seasons. Last season, the number of concussions was at an all-time low. The League's work on innovative helmets doesn't stop there, in the pursuit of safer protective equipment for players, the NFL hosts innovative challenges, including the NFL Helmet Challenge. The organization is also helping to drive the development of position-adjusted helmets and advances in customized helmets using new technologies such as 3D printing to continue the advancement of helmet safety and innovation.  
 
-<img src="https://user-images.githubusercontent.com/112630417/214016540-4ca0a2e7-4106-4b32-aad2-a73100af92c1.PNG">  
+<img src="https://user-images.githubusercontent.com/112630417/216815796-bb748c64-58a6-4a02-98eb-b2db5ff04cd7.PNG">  
 
 #### CRASH CLOUD TECHNOLOGY 
 Windpact Crash Cloud is a proprietary technology developed by Windpatt, a company specializing in impact protection products. The Crash Cloud technology is a combination of materials and designs that aim to provide enhanced impact protection in various products, such as helmets, protective gear, and sports equipment. The technology is designed to reduce the amount of force transmitted to the head, body, or other areas during impact. The specific design and materials used in Windpact's Crash Cloud technology vary depending on the application and product. The most important thing about Crash Cloud is the foam. Crash Cloud can intelligently adapt to the level of the strike and solve a wide range of strikes, from linear strikes to rotational strikes. The unique combination of controlled airflow and lightweight open-cell foams reduces weight and size. Moreover creates an energy absorption system that provides excellent impact protection without restriction. it is modular and can take any shape, size or texture depending on the application.  
@@ -40,11 +40,14 @@ HP offered a three-module system with a 3D scanner, pressure plate, and use-only
 ## <b>THE DIGITAL ATHLETES</b>
 The NFL is partnering with Amazon Web Services (AWS) to use Artificial Intelligent (AI) and machine learning to build a Digital Athlete. It is a virtual representation of an NFL player that can predict and prevent injuries. Digital Athlete applies data such as player activity, equipment selection, speed, weather and countless hours of video to better understand injuries. The Digital Athlete algorithm can test different simulations. How a different helmet affects a rider. What if the weather was different? Digital Athlete will help the NFL conduct injury risk analysis and evaluate additional player safety initiatives, including equipment, rule changes and coaching techniques.  
 
-<img src="https://user-images.githubusercontent.com/112630417/214320436-6211759a-290f-432e-aa6e-685f42fabd0a.PNG" width="500" height="400" /> <img src="https://user-images.githubusercontent.com/112630417/214320471-57fdca3d-71e5-4a0c-97ba-9b03d2c59cfb.PNG" width="500" height="400" /> 
+<img src="https://user-images.githubusercontent.com/112630417/216815777-a54a55ad-3c82-4dd7-85a1-2aaf68347cb5.PNG" width="500" height="400" /> <img src="https://user-images.githubusercontent.com/112630417/216815777-a54a55ad-3c82-4dd7-85a1-2aaf68347cb5.PNG" width="500" height="400" /> 
 
 ## <b>DATA COLLECING</b>
 The NFL uses Radio Frequency Identification (RFID) tags, including those developed by Zebra Technologies. They are located on the players' equipment, in particular under the mask under the chin in the belt. Data is collected at each training session and matched separately for each player. Mouth guard sensors also collect movement, and head speed after being hit while playing. The data is so accurate that NFL engineers can analyze it piece by piece to gain insights into the types of impacts players are most at risk of, then work directly with helmet manufacturers to share that experience so they can design gear that is position specific, to better protect against these effects. Injury data from 2015 to pre-season 2022 on rates of reported concussions and ACL and MCL injuries.  
 
-<img src="https://user-images.githubusercontent.com/112630417/214322953-60c55b4a-8254-48bd-b334-40ef72dbf63a.PNG">
-<img src="https://user-images.githubusercontent.com/112630417/214322968-c39a16b0-67b6-48c7-83e7-cba8bfcda04a.PNG">
-<img src="https://user-images.githubusercontent.com/112630417/214322985-694ac1ef-8e5c-4ef8-a8d3-76ed9c3f0b42.PNG">
+<img src="https://user-images.githubusercontent.com/112630417/216815787-8e3cb058-25ba-47de-b51c-92214cd98bc7.PNG">
+<img src="https://user-images.githubusercontent.com/112630417/216815791-a4a587c8-1d66-4a89-b8f4-e406e65089c6.PNG">
+<img src="https://user-images.githubusercontent.com/112630417/216815793-ccd3a5d6-449f-40a0-aac8-b2ce2561ad18.PNG">
+
+
+
