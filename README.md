@@ -1,11 +1,11 @@
 ## <b>DIGITA HEALTH IN AMERICAN FOOTBLL</b> 
 New helmets, data-gathering sensors, and a turf testing machine called the BEAST are making the game safer for NFL (National Football League) players. NFL and its partners. For example, Amazon Web Service (AWS) is collecting more data. By analyzing the data, conclusions can be drawn about the causes of various injuries, thus preventing them and keeping players safer. 
 #### PROJECT:
-- <a href="HELMET TESTING">Helmet Testing</a>
-- [HeadHealth TECH Challenges & the NFL Helmet Challenge](#HEADHEALTH-TECH-CHALLANGES-&-THE-NFL-HELMET-CHALLENGE)
-- [The BEAST](#THE-BEAST)
-- [The Digital Athletes](#THE-DIGITAL-ATHLETES)
-- [Data Collecting](#DATA-COLLECTING) 
+- [Helmet Testing](##HELMET-TESTING)
+- [HeadHealth TECH Challenges & the NFL Helmet Challenge](##HEADHEALTH-TECH-CHALLANGES-&-THE-NFL-HELMET-CHALLENGE)
+- [The BEAST](##THE-BEAST)
+- [The Digital Athletes](##THE-DIGITAL-ATHLETES)
+- [Data Collecting](##DATA-COLLECTING) 
 - Ruel Challenges – NFL has used data to inform more than 50 rules changes to eliminate potentially dangerous tackles and reduce the risk of injury.
 ## <b>HELMET TESTING</b>
 Each season, NFL players select a new helmet from the helmet safety list. Better-performance helmets have contributed to a sustained reduction of concussions by 25% in each of the last four seasons. Last season, the number of concussions was at an all-time low. The League's work on innovative helmets doesn't stop there, in the pursuit of safer protective equipment for players, the NFL hosts innovative challenges, including the NFL Helmet Challenge. The organization is also helping to drive the development of position-adjusted helmets and advances in customized helmets using new technologies such as 3D printing to continue the advancement of helmet safety and innovation.  
