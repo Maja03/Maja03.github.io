@@ -8,8 +8,7 @@ New helmets, data-gathering sensors, and a turf testing machine called the BEAST
 - [Data Collecting](#DATA-COLLECTING) 
 - Ruel Challenges – NFL has used data to inform more than 50 rules changes to eliminate potentially dangerous tackles and reduce the risk of injury.
 ## <b>HELMET TESTING</b>
-Each season, NFL players select a new helmet from the helmet safety list. Better-performance helmets have contributed to a sustained reduction of concussions by 25% in each of the last four seasons. Last season, the number of concussions was at an all-time low. The League's work on innovative helmets doesn't stop there, in the pursuit of safer protective equipment for players, the NFL hosts innovative challenges, including the NFL Helmet Challenge. The organization is also helping to drive the development of position-adjusted helmets and advances in customized helmets using new technologies such as 3D printing to continue the advancement of helmet safety and innovation.  
-
+Each season, NFL players select a new helmet from the helmet safety list. Better-performance helmets have contributed to a sustained reduction of concussions by 25% in each of the last four seasons. Last season, the number of concussions was at an all-time low. The League's work on innovative helmets doesn't stop there, in the pursuit of safer protective equipment for players, the NFL hosts innovative challenges, including the NFL Helmet Challenge. The organization is also helping to drive the development of position-adjusted helmets and advances in customized helmets using new technologies such as 3D printing to continue the advancement of helmet safety and innovation.<br/>
 <img src="https://user-images.githubusercontent.com/112630417/214016540-4ca0a2e7-4106-4b32-aad2-a73100af92c1.PNG">  
 
 #### CRASH CLOUD TECHNOLOGY 
