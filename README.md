@@ -15,8 +15,7 @@ Each season, NFL players select a new helmet from the helmet safety list. Better
 #### CRASH CLOUD TECHNOLOGY 
 Windpact Crash Cloud is a proprietary technology developed by Windpatt, a company specializing in impact protection products. The Crash Cloud technology is a combination of materials and designs that aim to provide enhanced impact protection in various products, such as helmets, protective gear, and sports equipment. The technology is designed to reduce the amount of force transmitted to the head, body, or other areas during impact. The specific design and materials used in Windpact's Crash Cloud technology vary depending on the application and product. The most important thing about Crash Cloud is the foam. Crash Cloud can intelligently adapt to the level of the strike and solve a wide range of strikes, from linear strikes to rotational strikes. The unique combination of controlled airflow and lightweight open-cell foams reduces weight and size. Moreover creates an energy absorption system that provides excellent impact protection without restriction. it is modular and can take any shape, size or texture depending on the application.  
 
-<img src="https://user-images.githubusercontent.com/112630417/216814887-5957ec71-e1da-4e6e-942a-7b11611bbfe1.PNG" weidth="600" height="400">
-<img src="https://user-images.githubusercontent.com/112630417/216814890-dc569c80-bea8-4c74-af65-5f06283c9a73.PNG" weidth="600" height="400">  
+<img src="https://user-images.githubusercontent.com/112630417/216814887-5957ec71-e1da-4e6e-942a-7b11611bbfe1.PNG" weidth="500" height="400"><p><img src="https://user-images.githubusercontent.com/112630417/216814890-dc569c80-bea8-4c74-af65-5f06283c9a73.PNG" weidth="600" height="400"></p>  
 
 ## <b>HEADHEALTH TECH CHALLANGES & THE NFL HELMET CHALLENGE</b>
 #### HEADHEALTH TECH CHALLENGES
@@ -25,8 +24,7 @@ Made by the National Football League (NFL) and Football Research, Inc. (FRI) hav
 NFL Helmet Challenges have the task based on specific laboratory tests to create a new helmet for NFL players that will be better than those currently in use. NFL and Football Research, Inc. (FRI) awarded a $1.37 million HeadHealthTECH grant to four teams of innovators to support the creation of their helmet prototypes to is entered into the ongoing NFL Helmet Challenge. The challenge is to create a helmet based on laboratory tests that will be an improved version of those currently used.
 The judging panel combines expertise in engineering, biomechanics, neuroscience, and sports business, and includes two NFL legends and an NFL equipment manager.  
 
-<img src="https://user-images.githubusercontent.com/112630417/214034465-b0b696ab-b1fb-4738-ad02-b40189e911d8.png" weidth="200" height="300">
-<p></small></small>shown how tests are carried out when checking equipments.</p>
+<img src="https://user-images.githubusercontent.com/112630417/214034465-b0b696ab-b1fb-4738-ad02-b40189e911d8.png" weidth="200" height="300"><p></small></small>shown how tests are carried out when checking equipments.</p>
 
 In addition to the visual assessment, the cash register will also undergo laboratory tests to check whether it meets the Helmet Performance Score (HPS) requirements. Lab testing conditions are designed to represent potentially concussive head strikes in the NFL, and this is the same process used annually to rank helmets by performance to inform players and club medical, training, coaching and equipment personnel about the best helmets on the market today.
 ## <b>THE BEAST</b>
